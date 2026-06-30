@@ -3,5 +3,5 @@
 - Erstellung von relationalen Datenbanken Arbeit mit mehreren Tabellen unter Verwendung von DDL-Befehlen. 
 - Python-Programmierung
 ## 1. Datenanalyse mithilfe von SQLite und Python - Chicago_Crime_Data
-- Hier simulierte ich mithilfe der Monte-Carlo-Simulation den Preis einer selbsterstellten Call-Option im Cox-Ross-Rubinstein-Modell. Die Validierung dieses Modells ist jedoch unvollständig, sodass mein Versuch keine optimalen Investitionsentscheidungen über den Kauf solcher Optionen liefert. Die Methodik dahinter ist jedoch fehlerfrei. 
+- In diesem Projekt habe ich Daten zu Kriminalität, Schulen und Lebensumständen in Chicago in einer Datenbank zusammengeführt und mit SQL analysiert, um herauszufinden, wie sicher die verschiedenen Stadtteile sind.
 
